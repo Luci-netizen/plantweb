@@ -1,3 +1,5 @@
+"use strict";
+// alphabetical order
 function sortUL(selector) {
   var $ul = $(selector);
   $ul
